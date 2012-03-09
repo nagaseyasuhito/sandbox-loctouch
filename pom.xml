@@ -7,7 +7,7 @@
 
 	<name>sandbox-loctouch</name>
 	<url>http://github.com/nagaseyasuhito/sandbox-loctouch</url>
-	<description>sandbox-loctouch is full-stack web application generator.</description>
+	<description>sandbox-loctouch is sandbox of loctouch API.</description>
 	<organization>
 		<name>nagaseyasuhito Architekt works.</name>
 	</organization>
