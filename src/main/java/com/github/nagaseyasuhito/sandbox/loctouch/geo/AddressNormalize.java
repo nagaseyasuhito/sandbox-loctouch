@@ -109,7 +109,7 @@ public class AddressNormalize {
 		this.code = code;
 	}
 
-	public Boolean getError() {
+	public Boolean isError() {
 		return this.error;
 	}
 
